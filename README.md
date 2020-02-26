@@ -9,5 +9,5 @@ it works best with images around 250 x 250 as you can find on internet
 
 here is a good example of what it does step by step:  
 
-
+![alt text](https://github.com/JeanMILPIED/pixel_art/blob/master/pixel_generator.JPG)
 
